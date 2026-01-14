@@ -1,1 +1,3 @@
-
+title: My cool site
+description: A short tagline for the site
+theme: jekyll-theme-minimal   # or any GH-supported theme
